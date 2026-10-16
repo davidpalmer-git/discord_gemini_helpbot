@@ -20,21 +20,21 @@ An intelligent, AI-powered Discord ticketing bot designed to streamline communit
 ### 1. Opening a Support Ticket
 Users click a reaction or button in a designated support channel to initiate a ticket.
 
-![Ticket Creation Mockup](https://via.placeholder.com/800x400.png?text=Ticket+Creation+Button+%26+Private+Channel+Creation)
+![Ticket Creation Mockup]([https://via.placeholder.com/800x400.png?text=Ticket+Creation+Button+%26+Private+Channel+Creation](https://github.com/davidpalmer-git/discord_gemini_helpbot/blob/main/Gemini_Generated_Image_8gi39l8gi39l8gi3%20(1).jpg))
 
 ---
 
 ### 2. AI Agent Chat & Resolution
 The Gemini AI agent introduces itself, asks clarifying questions, and pulls solutions directly from your project's knowledge base.
 
-![AI Support Chat Demo](https://via.placeholder.com/800x450.gif?text=Animated+GIF:+Gemini+AI+Chatting+and+Resolving+Issue)
+![AI Support Chat Demo]([https://via.placeholder.com/800x450.gif?text=Animated+GIF:+Gemini+AI+Chatting+and+Resolving+Issue](https://github.com/davidpalmer-git/discord_gemini_helpbot/blob/main/Gemini_Generated_Image_8gi39l8gi39l8gi3.jpg))
 
 ---
 
 ### 3. Automatic Escalation
 If the AI detects that an issue requires human intervention (or if confidence is low), it alerts the support team.
 
-![Human Escalation Mockup](https://via.placeholder.com/800x350.png?text=Escalation+Alert:+Tagging+@Support+Team)
+![Human Escalation Mockup]([https://via.placeholder.com/800x350.png?text=Escalation+Alert:+Tagging+@Support+Team](https://github.com/davidpalmer-git/discord_gemini_helpbot/blob/main/Gemini_Generated_Image_8gi39l8gi39l8gi3%20(2).jpg))
 
 ---
 
